@@ -1,0 +1,17 @@
+[
+  {
+    "id": "Modules.Resource",
+    "version": "1.0.0",
+    "name": "资源模块"
+  },
+  {
+    "id": "Modules.Role",
+    "version": "1.0.0",
+    "name": "角色模块"
+  },
+  {
+    "id": "Modules.User",
+    "version": "1.0.0",
+    "name": "用户模块"
+  }
+]

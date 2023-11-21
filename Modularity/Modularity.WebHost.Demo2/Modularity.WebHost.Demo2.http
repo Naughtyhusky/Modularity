@@ -1,0 +1,6 @@
+@Modularity.WebHost.Demo2_HostAddress = http://localhost:5198
+
+GET {{Modularity.WebHost.Demo2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
